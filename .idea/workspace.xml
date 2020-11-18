@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="86fdf070-a858-40c7-89be-c791124b2776" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/demo/view/documentation.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/demo/view/documentation.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/sass/_mixins.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/sass/_mixins.scss" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="JsBowerSettings">
+    <node-interpreter value="project" />
+    <exe-path />
+    <config-path />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>false</service-enabled>
+    <exe-path />
+    <annotation-enable>false</annotation-enable>
+    <other-services-enabled>false</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectId" id="1UbmeiLuWU4JGP5fkSdwgNG1pEb" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/assets/theme/yellow" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.jscs" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.path.for.package.stylelint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="" />
+    <property name="node.js.selected.package.jscs" value="" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="node.js.selected.package.stylelint" value="" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="/usr/local/bin/node" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/node_modules/typescript/lib" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/assets/theme/yellow" />
+      <recent name="$PROJECT_DIR$/src/assets/theme/teal" />
+      <recent name="$PROJECT_DIR$/src/assets/theme/red" />
+      <recent name="$PROJECT_DIR$/src/assets/theme/purple" />
+      <recent name="$PROJECT_DIR$/src/assets/theme/orange" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.Angular CLI Server">
+    <configuration name="Tests (mirage)" type="JavaScriptTestRunnerKarma">
+      <config-file value="$PROJECT_DIR$/karma.conf.js" />
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="E2E Tests (mirage)" type="JavaScriptTestRunnerProtractor">
+      <config-file value="$PROJECT_DIR$/e2e/protractor.conf.js" />
+      <node-interpreter value="project" />
+      <protractor-options value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Angular Application" type="JavascriptDebugType" uri="http://localhost:4200">
+      <method v="2" />
+    </configuration>
+    <configuration name="Angular CLI Server" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration" cleanupOnStartRun="true">
+    <configuration>$USER_HOME$/.subversion</configuration>
+    <supportedVersion>125</supportedVersion>
+  </component>
+  <component name="SvnFileUrlMappingImpl">
+    <option name="myMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="$PROJECT_DIR$" />
+          <option name="myCopyRoot" value="$PROJECT_DIR$" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+    <option name="myMoreRealMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="$PROJECT_DIR$" />
+          <option name="myCopyRoot" value="$PROJECT_DIR$" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="86fdf070-a858-40c7-89be-c791124b2776" name="Default Changelist" comment="" />
+      <created>1575633765035</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575633765035</updated>
+      <workItem from="1575633766249" duration="41080000" />
+      <workItem from="1576134628249" duration="19121000" />
+      <workItem from="1576235382382" duration="404000" />
+      <workItem from="1576740137793" duration="253000" />
+      <workItem from="1577353628748" duration="827000" />
+      <workItem from="1579519847370" duration="902000" />
+      <workItem from="1583233560587" duration="60000" />
+      <workItem from="1583489652890" duration="314000" />
+      <workItem from="1583491426156" duration="956000" />
+      <workItem from="1583930004588" duration="13584000" />
+      <workItem from="1584340161289" duration="284000" />
+      <workItem from="1584341434287" duration="22000" />
+      <workItem from="1584344122012" duration="43000" />
+      <workItem from="1584445985402" duration="8656000" />
+      <workItem from="1584545588234" duration="543000" />
+      <workItem from="1584609873035" duration="1653000" />
+      <workItem from="1584618359968" duration="2046000" />
+      <workItem from="1584622008246" duration="1857000" />
+      <workItem from="1584967624675" duration="75000" />
+      <workItem from="1584968280409" duration="2936000" />
+      <workItem from="1585127689147" duration="2500000" />
+      <workItem from="1585136221406" duration="1643000" />
+      <workItem from="1585219942550" duration="2291000" />
+      <workItem from="1585223906460" duration="38000" />
+      <workItem from="1585397442567" duration="1857000" />
+      <workItem from="1585406432494" duration="1802000" />
+      <workItem from="1585565386764" duration="1137000" />
+      <workItem from="1585648028911" duration="386000" />
+      <workItem from="1585826807718" duration="1891000" />
+      <workItem from="1586173184220" duration="99000" />
+      <workItem from="1587647430308" duration="2090000" />
+      <workItem from="1587939761042" duration="817000" />
+      <workItem from="1587972656058" duration="592000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1659" height="295" key="GridCell.Tab.0.bottom" timestamp="1587650612716">
+      <screen x="0" y="0" width="1680" height="983" />
+    </state>
+    <state width="1659" height="295" key="GridCell.Tab.0.bottom/0.0.1680.983@0.0.1680.983" timestamp="1587650612716" />
+    <state width="1659" height="295" key="GridCell.Tab.0.center" timestamp="1587650612705">
+      <screen x="0" y="0" width="1680" height="983" />
+    </state>
+    <state width="1659" height="295" key="GridCell.Tab.0.center/0.0.1680.983@0.0.1680.983" timestamp="1587650612705" />
+    <state width="1659" height="295" key="GridCell.Tab.0.left" timestamp="1587650612704">
+      <screen x="0" y="0" width="1680" height="983" />
+    </state>
+    <state width="1659" height="295" key="GridCell.Tab.0.left/0.0.1680.983@0.0.1680.983" timestamp="1587650612704" />
+    <state width="1659" height="295" key="GridCell.Tab.0.right" timestamp="1587650612705">
+      <screen x="0" y="0" width="1680" height="983" />
+    </state>
+    <state width="1659" height="295" key="GridCell.Tab.0.right/0.0.1680.983@0.0.1680.983" timestamp="1587650612705" />
+    <state x="492" y="243" key="RollbackChangesDialog" timestamp="1587649884805">
+      <screen x="0" y="0" width="1680" height="983" />
+    </state>
+    <state x="492" y="243" key="RollbackChangesDialog/0.0.1680.983@0.0.1680.983" timestamp="1587649884805" />
+    <state x="504" y="282" width="671" height="486" key="find.popup" timestamp="1587973202350">
+      <screen x="0" y="0" width="1680" height="983" />
+    </state>
+    <state x="504" y="282" width="671" height="486" key="find.popup/0.0.1680.983@0.0.1680.983" timestamp="1587973202350" />
+    <state x="505" y="233" width="670" height="676" key="search.everywhere.popup" timestamp="1587973342499">
+      <screen x="0" y="0" width="1680" height="983" />
+    </state>
+    <state x="505" y="233" width="670" height="676" key="search.everywhere.popup/0.0.1680.983@0.0.1680.983" timestamp="1587973342499" />
+  </component>
+</project>
